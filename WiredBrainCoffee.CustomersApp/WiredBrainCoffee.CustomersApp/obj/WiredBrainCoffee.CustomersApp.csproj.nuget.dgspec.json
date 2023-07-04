@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NiteshAgarwal\\source\\repos\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj": {}
+    "C:\\Users\\NiteshAgarwal\\Documents\\GIT\\WPF-WiredBrainCofee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NiteshAgarwal\\source\\repos\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj": {
+    "C:\\Users\\NiteshAgarwal\\Documents\\GIT\\WPF-WiredBrainCofee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NiteshAgarwal\\source\\repos\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj",
+        "projectUniqueName": "C:\\Users\\NiteshAgarwal\\Documents\\GIT\\WPF-WiredBrainCofee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj",
         "projectName": "WiredBrainCoffee.CustomersApp",
-        "projectPath": "C:\\Users\\NiteshAgarwal\\source\\repos\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj",
+        "projectPath": "C:\\Users\\NiteshAgarwal\\Documents\\GIT\\WPF-WiredBrainCofee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj",
         "packagesPath": "C:\\Users\\NiteshAgarwal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NiteshAgarwal\\source\\repos\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\obj\\",
+        "outputPath": "C:\\Users\\NiteshAgarwal\\Documents\\GIT\\WPF-WiredBrainCofee\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NiteshAgarwal\\AppData\\Roaming\\NuGet\\NuGet.Config",
